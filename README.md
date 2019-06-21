@@ -44,6 +44,7 @@ Edit this document to include your answers after each question. Make sure to lea
    Converting a NodeList into an array makes it easy to apply a higher order function like forEach() for an effective loop iteration.
 
 5. What is a component?
+   Components are reusable codes that can be very useful in building element sharing functionalities and stlyings.
 
 ### Git Set up
 
